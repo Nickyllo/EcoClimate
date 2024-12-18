@@ -1,4 +1,4 @@
-**>>>ESPAÑOL<<<**
+ # **>>>ESPAÑOL<<<**
 
 # **EcoClimate**  
 > Un programa para tratar de reducir el calentamiento global <
@@ -21,7 +21,7 @@ Antes de comenzar, asegúrate de tener los sigientes requisitos:
 
 Para instalar correctamente **EcoClimate** debes ingresar a la pagina web mencionadamente anteriormente y presionar el boton de instalar para windows x64 a continucion se descargara un archivo que contiene el instalador de **EcoClimate**, desde el instalador de **EcoClimate** se te guiara como instalarlo correctamente.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**>>>ENGLISH<<<**
+ # **>>>ENGLISH<<<**
 
 # **EcoClimate**  
 > A program to try to reduce global warming <
