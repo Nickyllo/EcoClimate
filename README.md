@@ -36,10 +36,8 @@ Puedes probarlo accediendo a [EcoClimate](http://192.168.0.3:5000/), donde encon
 
 Puedes contactarme a través de mi correo de soporte: [Nickyllo Support](mailto:nickyllowilches@gmail.com?subject=Soporte%20EcoClimate&body=Hola,%20necesito%20soporte%20para%20EcoClimate...) o por Discord: [Nico Discord User](https://discordapp.com/users/1309846092711596037).
 
-**«|════════════════════════════════════════════════════════════════════════════════|»**
-
-# **EcoClimate**
-
+<div align="center">«|══════════════════════|» «|══════════════════════|»</div>
+                                                                          
 # **| English |**
 
 > A program designed to help reduce global warming.
@@ -76,9 +74,7 @@ You can test it by visiting [EcoClimate](http://192.168.0.3:5000/), where you wi
 
 You can contact me via my support email: [Nickyllo Support](mailto:nickyllowilches@gmail.com?subject=EcoClimate%20Support&body=Hello,%20I%20need%20support%20for%20EcoClimate...) or through Discord: [Nico Discord User](https://discordapp.com/users/1309846092711596037).
 
-**«|════════════════════════════════════════════════════════════════════════════════|»**
-
-# **EcoClimate**
+<div align="center">«|══════════════════════|» «|══════════════════════|»</div>
 
 # **| 中文 |**
 
@@ -116,4 +112,4 @@ You can contact me via my support email: [Nickyllo Support](mailto:nickyllowilch
 
 您可以通过我的支持邮箱与我联系：[Nickyllo Support](mailto:nickyllowilches@gmail.com?subject=EcoClimate%20支持&body=你好，我需要EcoClimate的技术支持...)，或者通过 Discord 联系我：[Nico Discord User](https://discordapp.com/users/1309846092711596037)。
 
-**«|════════════════════════════════════════════════════════════════════════════════|»**
+<div align="center">«|══════════════════════|» «|══════════════════════|»</div>
