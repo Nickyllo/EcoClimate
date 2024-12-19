@@ -26,7 +26,7 @@ Antes de comenzar, asegúrate de tener los sigientes requisitos:
 Puedes probarlo desde [EcoClimate](http://192.168.0.3:5000/) donde ahi estara todo el contenido de la pagina sin terceros, etc.
 
 ## **¿Donde conseguir soporte?**
-Puedes escribirme a mi correo de soporte: [Nickyllo Support](nickyllowilches@gmail.com) o tambien puedes escribirme a traves de discord: [Nico Discord User](https://discordapp.com/users/1309846092711596037)
+Puedes escribirme a mi correo de soporte: [Nickyllo Support](mailto:nickyllowilches@gmail.com?subject=Asunto%20Ejemplo&body=Hola,%20necesito%20soporte%20para%20EcoClimate...) o tambien puedes escribirme a traves de discord: [Nico Discord User](https://discordapp.com/users/1309846092711596037)
 
 **«|══════════════════════════════════════════════════════════════════════|»**
 
@@ -56,7 +56,7 @@ Before you begin, make sure you have the following requirements:
 You can try it from [EcoClimate](http://192.168.0.3:5000/) where all the content of the page will be there without third parties, etc.
 
 ## **Where to get support?**
-You can write to my support email: [Nickyllo Support](nickyllowilches@gmail.com) or you can also write to me through discord: [Nico Discord User](https://discordapp.com/users/1309846092711596037)
+You can write to my support email: [Nickyllo Support](mailto:nickyllowilches@gmail.com?subject=Asunto%20Ejemplo&body=Hola,%20necesito%20soporte%20para%20EcoClimate...) or you can also write to me through discord: [Nico Discord User](https://discordapp.com/users/1309846092711596037)
 
 **«|══════════════════════════════════════════════════════════════════════|»**
 
@@ -86,4 +86,4 @@ You can write to my support email: [Nickyllo Support](nickyllowilches@gmail.com)
 您可以从 [EcoClimate](http://192.168.0.3:5000/) 尝试，页面的所有内容都将在那里，无需第三方等。
 
 ## **哪里可以获得支持？**
-您可以写信给我的支持电子邮件：[Nickyllo 支持](nickyllowilches@gmail.com) 或者您也可以通过 Discord 给我写信：[Nico Discord User](https://discordapp.com/users/1309846092711596037)
+您可以写信给我的支持电子邮件：[Nickyllo 支持](mailto:nickyllowilches@gmail.com?subject=Asunto%20Ejemplo&body=Hola,%20necesito%20soporte%20para%20EcoClimate...) 或者您也可以通过 Discord 给我写信：[Nico Discord User](https://discordapp.com/users/1309846092711596037)
